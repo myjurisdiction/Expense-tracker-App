@@ -1,0 +1,13 @@
+.container {
+  width: 70vw;
+  height: auto;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid rgb(129, 57, 57);
+  margin: 10px auto;
+  background-color: purple;
+  color: white;
+  padding: 1%;
+}

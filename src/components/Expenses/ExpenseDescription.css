@@ -1,0 +1,11 @@
+.expense-description {
+  color: red;
+  font-size: medium;
+  text-align: center;
+  padding: 5px;
+  border: 1px solid blue;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width : 70vw;
+}
